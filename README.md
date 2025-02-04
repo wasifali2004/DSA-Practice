@@ -6,7 +6,7 @@ This repository contains a wide range of practice problems that cover various da
 Prerequisites
 Before diving into the problems, it is recommended that you have a basic understanding of the following programming concepts:
 
-Variables and Data Types
+Variables and Data Types:
 Control Structures (if-else, loops)
 Functions and Recursion
 Basic knowledge of C++, Python, or any other programming language
