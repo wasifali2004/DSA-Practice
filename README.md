@@ -10,7 +10,7 @@ Before diving into the problems, it is recommended that you have a basic underst
 Variables and Data Types:
 Control Structures (if-else, loops)
 Functions and Recursion
-Basic knowledge of C++, Python, or any other programming language
+Basic knowledge of C++, Python, or any other programming language.
 List of Topics
 Here is a list of topics covered in this repository:
 
