@@ -22,6 +22,7 @@ int main() {
 }
 */
 
+
 string string_check(string c, int n) {
     if(n == 0) {
         return "";
