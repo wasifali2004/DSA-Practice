@@ -13,6 +13,7 @@ bool find(int *arr, int n, int x){
     find(arr, n-1, x);
 }
 
+
 int main() {
     int size, x;
     cout<<"Enter size: ";
