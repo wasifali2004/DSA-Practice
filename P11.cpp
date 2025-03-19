@@ -9,7 +9,6 @@ void sequence(int n) {
     }
     sequence(n-1);
     cout<<" " <<n;
-
 }
 
 int main() {
